@@ -11,4 +11,4 @@ A machine learning–based system that recommends personalized workout plans, pr
 * Suggest diet category (vegetarian, high-protein, etc.)
 * Predict BMI and classify fitness level
 * Recommend workout intensity (low, medium, high)
-* User interface built with Streamlit
+
