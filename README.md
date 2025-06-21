@@ -1,4 +1,4 @@
-# gym-recommendation-system
+!!!
 # 🏋️ Gym Recommendation System
 
 A machine learning–based system that recommends personalized workout plans, predicts BMI, classifies fitness levels, and suggests diet categories based on user input.
